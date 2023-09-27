@@ -579,6 +579,9 @@ Multipliqueishon (array, numMultiplicar);
 
 //////////////////////////// REVERSE //////////////////// retorna un mismo array pero con los elementos invertidos
 
-const animales = ["perro", "gato", "pez"];
-console.log (animales.reverse());
-console.log(animales);
+//const animales = ["perro", "gato", "pez"];
+//console.log (animales.reverse());
+//console.log(animales);
+
+//////////////////////////// métodos avanzados de arrays ////////////////////
+
